@@ -1,6 +1,6 @@
 # check-password
 
-Checks a password against the ["Pwned Passwords" API][api-docs] This is
+Checks a password against the ["Pwned Passwords" API][api-docs]. This is
 provided for the benefit of the (sensible) people who feel uneasy about
 entering their passwords into someone else's web page. The code here is
 intentionally simple; you can see that it does not send your password across
